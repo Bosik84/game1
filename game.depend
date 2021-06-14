@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622584281 source:d:\codebloks\проекты\контрольная2\game\main.cpp
+	<iostream>
+	<ctime>
+	"conio.h"
+	"windows.h"
+
+1622660414 source:d:\c++\game\main.cpp
+	<iostream>
+	<ctime>
+	"conio.h"
+	"windows.h"
+
